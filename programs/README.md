@@ -7,11 +7,19 @@
 ## Introduction
 
 **Date/Time**: Thu 4th Jun 2026 19:09 PM GMT  
-**Computer**: home based NUC mini-PC box  
+**Computer**: Home based NUC mini-PC box  
 **OS**: Linux Mint 22.3  
-**Language**: Python 3.12   
+**Language**: Python 3.12.3
+**Pip**: 26.1.2
 **Environment**: venv (virtual environment)   
 **Libraries**: tk, matplotlib, numpy, pandas, scipy, streamlit  
+
+As I understand it...Streamlit, is able to incorporate the usage of     
+not just Python 3 code...; but, also, any Python library, as well;  
+and, all of these can be transformed into becoming actual 'output'.  
+
+As a relative 'beginner' who is new to learning about these sort of technologies...;  
+then, I really can't wait to learn more.  
 
 -----
 
