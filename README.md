@@ -57,15 +57,19 @@ When you are ready to write your first Streamlit 'Hello, world' program; then...
 > import streamlit as st  
 > st.header("My 1st app...")  
 > st.write("Hello, world!")  
-...save the code as being called:   
+
+...save the code as being called:     
 
 my1st.py  
 
-*NOTE**: All Python3 program files are saved using: filename + extension: .py       
-...in order to run the code file called: my1st.py  
-...; inside of the terminal application window type:    
+(**NOTE**: All Python3 program files are saved using: filename + extension: .py)       
+
+...in order to run the code file called: my1st.py;    
+...inside of the terminal application window type:  
+
 python my1st.py  
-...you web browser will load, automatically; and, then, display the output.  
+
+...your web browser will load up, automatically; and, then, display the *output* as a web page.    
 
 -----
    
