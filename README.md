@@ -38,9 +38,38 @@ Then, that line might be followed by the **import** of any other code libraries 
 - st.button()  
 - etc.  
 
+### Your 1st Streamlit program  
+
+For one's very first Streamlit program...;   
+then, it's really not necessary to write any code...;   
+instead, you just type into the terminal window the command...    
+
+> streamlit hello
+
+...and, automatically, that will load up your *web browser* software...;     
+and, lead you to an explanation web page containing further links you can *click* on...;        
+together with some Streamlit **example programs**.  
+
+-----
+
+When you are ready to write your first Streamlit 'Hello, world' program; then...   
+
+> import streamlit as st  
+> st.header("My 1st app...")  
+> st.write("Hello, world!")  
+...save the code as being called:   
+
+my1st.py  
+
+*NOTE**: All Python3 program files are saved using: filename + extension: .py       
+...in order to run the code file called: my1st.py  
+...; inside of the terminal application window type:    
+python my1st.py  
+...you web browser will load, automatically; and, then, display the output.  
+
 -----
    
 ## Links
 
-Streamlit official web site  
-- https://streamlit.com  
+Streamlit official web site    
+- https://streamlit.io   
