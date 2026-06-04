@@ -98,6 +98,10 @@ Streamlit official web site
 
 ### YouTube Videos   
 
+Streamlit Crash Course: From Zero to Data App - (Channel: Streamlit)  
+- https://www.youtube.com/watch?v=d7fnzDQ5qM8  
+
+
 -----
 
 ### Other  
