@@ -11,4 +11,4 @@ Libraries: tk, matplotlib, numpy, pandas, scipy, streamlit
 
 I'm using W3schools web site...to learn more about how to do Python 3 programming:  
 - https://www.w3schools.com  
-...and, right now, I'm learning there how to use: numypy.  
+...and, right now, I'm learning there how to use: numpy.  
