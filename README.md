@@ -9,7 +9,7 @@
 
 *Thu 8th May 2025 22:36 PM GMT*   
 
-Today, I created this streamlit repository so that I can run 'live' code from here.  
+Today, I created this Streamlit repository...; so that I can run 'live' code from here.  
 
 -----
 
@@ -21,7 +21,7 @@ The first line of code is, usually, to **import** the streamlit library by using
 
 > import streamlit as st  
 
-Then, that line might be followed by the **import** of any other code libraries your program may wish to use:   
+Then, that line might be followed by the **import** of any other code libraries your program may depend on:     
 
 > import streamlit as st    
 > import numpy as np  
@@ -46,10 +46,10 @@ Then, that line might be followed by the **import** of any other code libraries 
 ### Your 1st Streamlit program  
 
 For one's very first Streamlit program...;   
-then, it's really not necessary to write any code...;   
+then, it's really NOT necessary to write any code at all...;     
 instead, you just type into the terminal window the command...    
 
-> streamlit hello
+> streamlit hello (...then, press [ENTER] key)  
 
 ...and, automatically, that will load up your *web browser* software...;     
 and, lead you to an explanation web page containing further links you can *click* on...;        
@@ -67,18 +67,39 @@ When you are ready to write your first Streamlit 'Hello, world' program; then...
 
 my1st.py  
 
-(**NOTE**: All Python3 program files are saved using: filename + extension: .py)       
+(**NOTE**: All Python3 program files are saved using: filename + extension: [.py].)         
 
 ...in order to run the code file called: my1st.py;    
 ...inside of the terminal application window type:  
 
 python my1st.py  
+...or,...  
+python3 my1st.py    
 
-...your web browser will load up, automatically; and, then, display the *output* as a web page.    
+...your web browser should load up, automatically; and, then, display the *output* in the form of being a *web page*.      
 
 -----
    
 ## Links
 
-Streamlit official web site    
-- https://streamlit.io   
+-----
+
+### Sites  
+
+Streamlit official web site      
+- https://streamlit.io  
+  https://docs.streamlit.io  
+  
+-----
+
+### Online tutorials  
+
+-----
+
+### YouTube Videos   
+
+-----
+
+### Other  
+
+-----
