@@ -14,15 +14,18 @@ Today, I created this streamlit repository so that I can run 'live' code from he
 
 Streamlit, is FREE...; and, it comes with its own individual code library of objects.      
 
-The first line of code is, usually, to **import** the streamlit library using it's alias 'st':    
+The first line of code is, usually, to **import** the streamlit library by using it's alias: 'st':      
 
 > import streamlit as st  
 
-Then, that line might be followed by important any other libraries your program may wish to use:   
+Then, that line might be followed by the **import** of any other code libraries your program may wish to use:   
 
-> import streamlit as st  
+> import streamlit as st    
 > import numpy as np  
-> import pandas as pd   
+> import pandas as pd  
+> import matplotlib.pyplot as plt  
+> import scipy  
+> from scipy import stats   
 > -etc.  
 
 ### Stream lit objects...
