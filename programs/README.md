@@ -6,12 +6,12 @@
 
 ## Introduction
 
-Thu 4th Jun 2026 19:09 PM GMT  
-Computer: home based NUC mini-PC box  
-OS: Linux Mint 22.3  
-Language: Python 3.12   
-Environment: venv (virtual environment)   
-Libraries: tk, matplotlib, numpy, pandas, scipy, streamlit  
+**Date/Time**: Thu 4th Jun 2026 19:09 PM GMT  
+**Computer**: home based NUC mini-PC box  
+**OS**: Linux Mint 22.3  
+**Language**: Python 3.12   
+**Environment**: venv (virtual environment)   
+**Libraries**: tk, matplotlib, numpy, pandas, scipy, streamlit  
 
 -----
 
