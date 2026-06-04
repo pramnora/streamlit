@@ -38,6 +38,8 @@ Then, that line might be followed by the **import** of any other code libraries 
 - st.button()  
 - etc.  
 
+-----
+
 ### Your 1st Streamlit program  
 
 For one's very first Streamlit program...;   
