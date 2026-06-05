@@ -1,6 +1,6 @@
 
 **CREATED**: *Thu 4th Jun 2026 19:09 PM GMT*  
-**UPDATED**: *Thu 5th Jun 2026 17:35 PM GMT*  
+**UPDATED**: *Thu 5th Jun 2026 17:42 PM GMT*  
 
 -----
 
@@ -10,7 +10,7 @@ Here I include any Streamlit programs that were *written/authored* by me.
 
 -----
 
-## My 'latest' computer: NUC Mini-PC box/Linux Mint 22.3 OS
+## My 'latest' computer...
 
 **Date/Time**: Thu 4th Jun 2026 19:09 PM GMT  
 **Computer**: Home based NUC mini-PC box  
@@ -20,13 +20,13 @@ Here I include any Streamlit programs that were *written/authored* by me.
 **Environment**: venv (virtual environment)   
 **Libraries**: tk, matplotlib, numpy, pandas, scipy, streamlit  
 
-As I understand it...Streamlit, is able to incorporate the usage of     
-not just Python 3 code, alone...; but, also, any Python library, as well;    
-and, everything can be from both: Streamlit/libraries  
-can become 'output' that is joined together.   
+As I understand it...Streamlit, can combine together   
+both Python3 programming language/plus, many other programming libraries, as well;    
+including: tk, numpy, pandas, matplotlib, scipy; and, indeed, many more/-etc.  
 
-As a relative 'beginner' who is new to learning about these sort of technologies...;  
-then, I really can't wait to learn more.  
+As a relative 'beginner' who is new to learning about  
+how to use these really interesting sort of technologies...;    
+then, I really can't 'wait' to learn/understand more.  
 
 -----
 
