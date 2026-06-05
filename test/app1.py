@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("My first stream lit app.")
+st.title("My first streamlit app.")
 
 button1=st.button("Click me")
 
