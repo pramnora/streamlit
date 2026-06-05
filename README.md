@@ -1,7 +1,7 @@
 # streamlit
 
 **CREATED**: *Thu 8th May 2025 22:36 PM GMT*  
-**UPDATED**: *Thu 5th Jun 2026 15:12 PM GMT* 
+**UPDATED**: *Thu 5th Jun 2026 15:13 PM GMT* 
 
 -----
 
@@ -13,7 +13,7 @@ Today, I created this Streamlit repository...; so that I can run 'live' code fro
 
 -----
 
-## Explaining more about Streamlit/and, how it is used
+## Import streamlit
 
 Streamlit, is FREE...; and, it comes with its own individual code library of objects.      
 
