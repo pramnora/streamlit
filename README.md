@@ -17,7 +17,7 @@ Today, I created this Streamlit repository...; so that I can run 'live' code fro
 
 Streamlit, is FREE...; and, it comes with its own individual code library of objects.      
 
-The first line of code is, usually, to **import** the streamlit library by using it's alias: 'st':      
+The first line of code is, usually, to **import** the streamlit library by setting its alias as: 'st':      
 
 > import streamlit as st  
 
