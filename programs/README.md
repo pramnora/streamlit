@@ -1,10 +1,16 @@
 
 **CREATED**: *Thu 4th Jun 2026 19:09 PM GMT*  
-**UPDATED**: *Thu 4th Jun 2026 19:09 PM GMT*  
+**UPDATED**: *Thu 5th Jun 2026 17:35 PM GMT*  
 
 -----
 
-## Introduction
+## Introduction  
+
+Here I include any Streamlit programs written/authored by me.
+
+-----
+
+## Notes  
 
 **Date/Time**: Thu 4th Jun 2026 19:09 PM GMT  
 **Computer**: Home based NUC mini-PC box  
@@ -15,8 +21,9 @@
 **Libraries**: tk, matplotlib, numpy, pandas, scipy, streamlit  
 
 As I understand it...Streamlit, is able to incorporate the usage of     
-not just Python 3 code...; but, also, any Python library, as well;  
-and, all of these can be transformed into becoming actual 'output' together, at once.   
+not just Python 3 code, alone...; but, also, any Python library, as well;    
+and, everything can be from both: Streamlit/libraries  
+can become 'output' that is joined together.   
 
 As a relative 'beginner' who is new to learning about these sort of technologies...;  
 then, I really can't wait to learn more.  
