@@ -65,7 +65,7 @@ instead, you just type into the terminal window the command...
 
 ...and, automatically, that will load up your *web browser* software...;     
 and, lead you to an explanation web page containing further links you can *click* on...;        
-together with some Streamlit **example programs**.  
+including links where you can get to view some Streamlit *example programs*.  
 
 -----
 
