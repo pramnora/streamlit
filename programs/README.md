@@ -6,7 +6,7 @@
 
 ## Introduction  
 
-Here I include any Streamlit programs written/authored by me.
+Here I include any Streamlit programs that were *written/authored* by me.
 
 -----
 
