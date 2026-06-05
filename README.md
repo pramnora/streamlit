@@ -1,7 +1,7 @@
 # streamlit
 
 **CREATED**: *Thu 8th May 2025 22:36 PM GMT*  
-**UPDATED**: *Thu 5th Jun 2026 15:13 PM GMT* 
+**UPDATED**: *Thu 5th Jun 2026 17:26 PM GMT* 
 
 -----
 
@@ -21,9 +21,8 @@ The first line of code is, usually, to **import** the streamlit library by using
 
 > import streamlit as st  
 
-Then, that line might be followed by the **import** of any other code libraries your program may depend on:     
+Then, the line above might be followed by the **import** of any other code libraries which your program might depend on:     
 
-> import streamlit as st    
 > import numpy as np  
 > import pandas as pd  
 > import matplotlib.pyplot as plt  
@@ -33,7 +32,7 @@ Then, that line might be followed by the **import** of any other code libraries 
 
 -----
 
-### Streamlit UI/User Interface...
+### Streamlit UI/User Interface building components...
 
 Text...  
 - st.title()  
