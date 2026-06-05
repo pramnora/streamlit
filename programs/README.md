@@ -10,7 +10,7 @@ Here I include any Streamlit programs that were *written/authored* by me.
 
 -----
 
-## Notes  
+## My 'latest' computer: NUC Mini-PC box/Linux Mint 22.3 OS
 
 **Date/Time**: Thu 4th Jun 2026 19:09 PM GMT  
 **Computer**: Home based NUC mini-PC box  
