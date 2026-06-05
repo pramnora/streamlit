@@ -1,7 +1,7 @@
 # streamlit
 
 **CREATED**: *Thu 8th May 2025 22:36 PM GMT*  
-**UPDATED**: *Thu 5th Jun 2026 15:08 PM GMT* 
+**UPDATED**: *Thu 5th Jun 2026 15:11 PM GMT* 
 
 -----
 
@@ -39,12 +39,12 @@ Text...
 - st.subheader()  
 - st.markdown()  
 - st.write()    
+- st.columns()  
 
 Objects...   
 - st.button()   
-- st.radio()  
 - st.checkbox()    
-- st.columns()  
+- st.radio()  
 - st.slider()  
 
 Filing...  
@@ -71,7 +71,7 @@ together with some Streamlit **example programs**.
 When you are ready to write your first Streamlit 'Hello, world' program; then...   
 
 > import streamlit as st  
-> st.header("My 1st app...")  
+> st.header("Streamlit: My 1st app...")  
 > st.write("Hello, world!")  
 
 ...save the code as being called:     
