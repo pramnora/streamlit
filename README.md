@@ -64,7 +64,7 @@ instead, you just type into the terminal window the command...
 > streamlit hello (...then, press [ENTER] key)  
 
 ...and, automatically, that will load up your *web browser* software...;     
-and, lead you to an explanation web page containing further links you can *click* on...;        
+and, lead you to an explanatory web page containing further links you can *click* on...;        
 including links where you can get to view some Streamlit *example programs*.  
 
 -----
