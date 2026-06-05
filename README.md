@@ -1,7 +1,7 @@
 # streamlit
 
 **CREATED**: *Thu 8th May 2025 22:36 PM GMT*  
-**UPDATED**: *Thu 5th Jun 2026 15:05 PM GMT* 
+**UPDATED**: *Thu 5th Jun 2026 15:07 PM GMT* 
 
 -----
 
@@ -39,13 +39,17 @@ Text...
 - st.subheader()  
 - st.markdown()  
 - st.write()    
-Objects...  
+
+Objects...   
 - st.slider()  
 - st.button()   
 - st.radio()  
 - st.checkbox()    
 - st.columns()  
+
+Filing...  
 - st.file_uploader()    
+
 - etc.  
 
 -----
