@@ -1,7 +1,7 @@
 # streamlit
 
 **CREATED**: *Thu 8th May 2025 22:36 PM GMT*  
-**UPDATED**: *Thu 5th Jun 2026 15:07 PM GMT* 
+**UPDATED**: *Thu 5th Jun 2026 15:08 PM GMT* 
 
 -----
 
@@ -31,7 +31,7 @@ Then, that line might be followed by the **import** of any other code libraries 
 > from scipy import stats   
 > -etc.  
 
-### Stream lit objects...
+### Streamlit UI/User Interface...
 
 Text...  
 - st.title()  
@@ -41,11 +41,11 @@ Text...
 - st.write()    
 
 Objects...   
-- st.slider()  
 - st.button()   
 - st.radio()  
 - st.checkbox()    
 - st.columns()  
+- st.slider()  
 
 Filing...  
 - st.file_uploader()    
