@@ -1,7 +1,7 @@
 # streamlit
 
 **CREATED**: *Thu 8th May 2025 22:36 PM GMT*  
-**UPDATED**: *Thu 5th Jun 2026 01:31 AM GMT* 
+**UPDATED**: *Thu 5th Jun 2026 11:17 AM GMT* 
 
 -----
 
@@ -39,8 +39,11 @@ Then, that line might be followed by the **import** of any other code libraries 
 - st.markdown()  
 - st.write()  
 - st.slider()  
-- st.button()
-- st.columns()
+- st.button()  
+- st.radiobutton() (?)  
+- st.checkbox()  
+- st.columns()  
+- st.file_uploader()  
 - etc.  
 
 -----
