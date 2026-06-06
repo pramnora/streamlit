@@ -1,7 +1,7 @@
 # streamlit
 
 **CREATED**: *Thu 8th May 2025 22:36 PM GMT*  
-**UPDATED**: *Thu 6th Jun 2026 18:24 PM GMT* 
+**UPDATED**: *Thu 6th Jun 2026 18:26 PM GMT* 
 
 -----
 
@@ -37,7 +37,8 @@ Then, the line above might be followed by the **import** of any other code libra
 Text...  
 - st.title()  
 - st.header()  
-- st.subheader()  
+- st.subheader() 
+- st.caption()
 - st.markdown()  
 - st.write()    
 - st.columns()  
@@ -50,9 +51,8 @@ Objects...
 - st.slider()  
 
 Filing...  
-- st.file_uploader()
+- st.file_uploader()  
 - st.data_editor()  
-
 - etc.  
 
 -----
